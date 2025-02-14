@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Rk6113
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Rishi Raj Kanukuntla
 
-<!---
-Rk6113/Rk6113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Bio
+Hello! I'm Rishi, a senior-year student at the University of North Texas. Majoring in Computer Science and Certification in Artificial Intelligence.
+
+## Current Role
+Currently, I am working as a Supplemental Instructor at the University of North Texas, where I host Coding sessions and try to help students to understand coding better.
+
+
+## Personal Interests
+Outside of my professional life, I enjoy watching movies.
+
+## Connect with Me
+I'm always open to connecting with people , sharing ideas, and exploring new opportunities. Feel free to reach out to me via email at kanukuntlarishiraj@gmail.com.
+
+Thank you for visiting my profile!
