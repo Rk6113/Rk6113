@@ -1,0 +1,11 @@
+<svg width="570" height="250" viewBox="0 0 570 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="570" y2="250"><stop stop-color="#102027"/><stop offset="1" stop-color="#0D1117"/></linearGradient><linearGradient id="a" x1="20" y1="20" x2="540" y2="220"><stop stop-color="#14B8A6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect x="1" y="1" width="568" height="248" rx="20" fill="url(#bg)" stroke="url(#a)" stroke-opacity="0.72" stroke-width="2"/>
+<rect x="26" y="25" width="138" height="26" rx="13" fill="#123438"/><text x="95" y="43" text-anchor="middle" fill="#5EEAD4" font-family="Inter,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="1">RECOMMENDATION</text>
+<text x="26" y="86" fill="#F8FAFC" font-family="Inter,system-ui,sans-serif" font-size="25" font-weight="760">MYRA</text>
+<text x="26" y="113" fill="#CBD5E1" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="600">AI Personalization Assistant</text>
+<text x="26" y="145" fill="#94A3B8" font-family="Inter,system-ui,sans-serif" font-size="14">Wardrobe recommendations + mobile + 3D visualization</text>
+<text x="26" y="177" fill="#5EEAD4" font-family="Inter,system-ui,sans-serif" font-size="15" font-weight="750">1st Place · UNT CS Capstone 2026 · 30+ teams</text>
+<text x="26" y="211" fill="#CBD5E1" font-family="Inter,system-ui,sans-serif" font-size="13">React Native · Node.js · FastAPI · MongoDB · OpenAI</text>
+<text x="503" y="214" fill="#67E8F9" font-family="Inter,system-ui,sans-serif" font-size="18" font-weight="700">↗</text>
+</svg>
