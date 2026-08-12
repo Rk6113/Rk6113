@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#060A13"/>
+      <stop offset="0.46" stop-color="#10152B"/>
+      <stop offset="1" stop-color="#07141C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="255" y1="70" x2="960" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.52" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 40) rotate(42) scale(340 260)">
+      <stop stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1035 250) rotate(-145) scale(320 230)">
+      <stop stop-color="#22D3EE" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#glow1)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#glow2)"/>
+
+  <g opacity="0.34" stroke="url(#accent)" stroke-width="1.3">
+    <path d="M42 78H188L233 123H337"/>
+    <path d="M56 233H183L226 190H334"/>
+    <path d="M1166 84H1032L990 126H892"/>
+    <path d="M1145 236H1021L975 191H884"/>
+    <path d="M74 157H193L222 146H318"/>
+    <path d="M1128 158H1021L984 147H900"/>
+  </g>
+
+  <g fill="#22D3EE">
+    <circle cx="42" cy="78" r="4"/>
+    <circle cx="337" cy="123" r="4"/>
+    <circle cx="56" cy="233" r="4"/>
+    <circle cx="334" cy="190" r="4"/>
+    <circle cx="1166" cy="84" r="4"/>
+    <circle cx="892" cy="126" r="4"/>
+    <circle cx="1145" cy="236" r="4"/>
+    <circle cx="884" cy="191" r="4"/>
+  </g>
+  <g fill="#8B5CF6">
+    <circle cx="188" cy="78" r="3.5"/>
+    <circle cx="183" cy="233" r="3.5"/>
+    <circle cx="1032" cy="84" r="3.5"/>
+    <circle cx="1021" cy="236" r="3.5"/>
+  </g>
+
+  <rect x="356" y="62" width="488" height="4" rx="2" fill="url(#accent)" opacity="0.9"/>
+  <rect x="425" y="255" width="350" height="2" rx="1" fill="url(#accent)" opacity="0.45"/>
+
+  <text x="600" y="139" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="46" font-weight="750" letter-spacing="2.2">RISHI RAJ KANUKUNTLA</text>
+  <text x="600" y="184" text-anchor="middle" fill="#B8C3D7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="500" letter-spacing="1.4">AI/ML ENGINEER  •  LLM SYSTEMS  •  SEARCH &amp; RETRIEVAL</text>
+  <text x="600" y="221" text-anchor="middle" fill="#6EE7F9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="2.1">BUILDING INTELLIGENT SYSTEMS FROM MODELS TO PRODUCTION</text>
+
+  <rect x="1" y="1" width="1198" height="318" rx="25" stroke="url(#accent)" stroke-opacity="0.42" stroke-width="2"/>
+</svg>
