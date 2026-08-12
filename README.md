@@ -22,43 +22,15 @@ Computer Science graduate from the **University of North Texas** focused on buil
 
 ## Featured Work
 
-### XpressWeed — Few-Shot Semantic Segmentation
-Research on adapting from synthetic leaf imagery to previously unseen real weed classes using texture-prior pretraining and Model-Agnostic Meta-Learning.
+<div align="center">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11536213"><img src="./assets/project-xpressweed.svg" width="49%" alt="XpressWeed — Few-Shot Semantic Segmentation" /></a>
+  <a href="https://github.com/Rk6113/immigration_law_app"><img src="./assets/project-immigration.svg" width="49%" alt="AI Immigration Information Assistant" /></a>
+</div>
 
-`TensorFlow` `Keras` `MAML` `Few-Shot Learning` `Computer Vision`
-
-**0.894 validation IoU** · **0.8538 mAP@50–95** · **IEEE SusTech 2026**  
-[View publication →](https://ieeexplore.ieee.org/abstract/document/11536213)
-
----
-
-### AI Immigration Information Assistant
-Python/FastAPI retrieval system designed to answer immigration-information questions from official sources with citation-grounded generation.
-
-`Python` `FastAPI` `PostgreSQL` `Vector Search` `RRF` `Reranking`
-
-Hybrid dense + keyword retrieval · topic-aware query handling · retrieval and generation evaluation  
-[View repository →](https://github.com/Rk6113/immigration_law_app)
-
----
-
-### MYRA — AI Personalization Assistant
-AI-powered wardrobe and outfit recommendation system combining a React Native mobile client, backend services, recommendation logic, and 3D visualization.
-
-`React Native` `Node.js` `FastAPI` `MongoDB` `OpenAI` `Recommendation Systems`
-
-**1st Place — UNT CS Capstone 2026 among 30+ teams**  
-[View repository →](https://github.com/cherry0722/MYRA)
-
----
-
-### Agentic Personal AI Assistant
-Privacy-focused assistant architecture for schedule context, weather-aware recommendations, memory, and automated morning briefs.
-
-`Rust` `Python` `FastAPI` `PostgreSQL` `Agentic Workflows`
-
-Policy/tooling core · Python AI orchestration · tool registry · progressive automation  
-[View repository →](https://github.com/Rk6113/agentic-personal-ai-assistant)
+<div align="center">
+  <a href="https://github.com/cherry0722/MYRA"><img src="./assets/project-myra.svg" width="49%" alt="MYRA — AI Personalization Assistant" /></a>
+  <a href="https://github.com/Rk6113/agentic-personal-ai-assistant"><img src="./assets/project-agentic.svg" width="49%" alt="Agentic Personal AI Assistant" /></a>
+</div>
 
 ## Tech Stack
 
