@@ -1,0 +1,46 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="35" y1="0" x2="1165" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.52" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="card1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#161129"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1730"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0A1C26"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="card4" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111B25"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="280" height="150" rx="18" fill="url(#card1)" stroke="#7C3AED" stroke-opacity="0.62"/>
+  <rect x="310" y="10" width="280" height="150" rx="18" fill="url(#card2)" stroke="#4F7CFF" stroke-opacity="0.62"/>
+  <rect x="610" y="10" width="280" height="150" rx="18" fill="url(#card3)" stroke="#22D3EE" stroke-opacity="0.62"/>
+  <rect x="910" y="10" width="280" height="150" rx="18" fill="url(#card4)" stroke="#67E8F9" stroke-opacity="0.50"/>
+
+  <text x="150" y="58" text-anchor="middle" fill="#A78BFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">RESEARCH</text>
+  <text x="150" y="96" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="750">IEEE SusTech 2026</text>
+  <text x="150" y="126" text-anchor="middle" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Published work</text>
+
+  <text x="450" y="58" text-anchor="middle" fill="#7AA2FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">SEGMENTATION</text>
+  <text x="450" y="99" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="800">0.894</text>
+  <text x="450" y="128" text-anchor="middle" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Validation IoU</text>
+
+  <text x="750" y="58" text-anchor="middle" fill="#4EE2F2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">DETECTION</text>
+  <text x="750" y="99" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="800">0.8538</text>
+  <text x="750" y="128" text-anchor="middle" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">mAP@50–95</text>
+
+  <text x="1050" y="58" text-anchor="middle" fill="#67E8F9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">CAPSTONE</text>
+  <text x="1050" y="99" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="31" font-weight="800">1st Place</text>
+  <text x="1050" y="128" text-anchor="middle" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">UNT CS · 30+ teams</text>
+</svg>
